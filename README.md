@@ -1,6 +1,5 @@
-# basic-react-projects
-# basic-react-projects
-# basic-react-projects
-# basic-react-projects
-# basic-react-projects
-# basic-react-projects
+## Basic react porjects
+
+```bash
+    npm install .
+```
